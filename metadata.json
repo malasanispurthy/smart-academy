@@ -1,0 +1,7 @@
+{
+  "name": "Aditya College Of Engineering Madanapalle",
+  "description": "A comprehensive college attendance and assignment management system for students and teachers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
